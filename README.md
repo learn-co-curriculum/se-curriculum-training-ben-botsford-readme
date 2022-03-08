@@ -11,13 +11,13 @@ A 1-2 sentence summary of what will be covered.
 
 ## Topic 1
 
-Discuss the topic of the reading. Break into sections and sub-sections as
+Discuss the topic of the first reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing.
 
 ## Topic 2
 
-Discuss the topic of the reading. Break into sections and sub-sections as
+Discuss the topic of the second reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing.
 
