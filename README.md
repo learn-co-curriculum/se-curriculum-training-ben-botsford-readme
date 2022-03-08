@@ -7,7 +7,7 @@
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+A 2-3 sentence summary of what will be covered.
 
 ## Topic 1
 
