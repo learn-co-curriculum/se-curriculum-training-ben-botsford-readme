@@ -1,4 +1,5 @@
 # Ben Botsford First README
+![very nice](https://curriculum-content.s3.amazonaws.com/curriculum-training/se-curriculum-training-ben-botsford-readme/thumbs-up.jpeg)
 
 ## Learning Goals
 
